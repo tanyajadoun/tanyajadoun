@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
-<p align="left"> <img src="newlogo.png.png" alt="tanyajadoun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyajadoun&label=Profile%20views&color=0e75b6&style=flat" alt="tanyajadoun" /> </p>
 
 - 🌱 I’m currently learning **DSA in java ,Frontend development Along With its framework**
 
