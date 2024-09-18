@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -created using github readme generator
 -->
-![logo](https://github.com/tanyajadoun/tanyajadoun/blob/main/newbanner.png)
+![logo](https://github.com/tanyajadoun/tanyajadoun/blob/main/newlogo.png.png)
 <h1 align="center">👋 Hello, fellow coders! I'm Tanya Jadoun</h1>
-<h3 align="center"> , a passionate and aspiring future software engineering candidate from India currently in my third year of studies. My journey in the world of programming began with a fascination for building innovative solutions and has since evolved into a dedicated pursuit of excellence in software development. My current focus revolves around mastering Java, Data Structures, and Algorithms. I believe that a strong foundation in these areas is essential for crafting efficient and scalable software solutions.</h3>
+<h3 align="center">❄️❄️A Passionate and Aspiring future software engineering candidate from India currently in my third year of studies. My journey in the world of programming began with a fascination for building innovative solutions and has since evolved into a dedicated pursuit of excellence in software development. My current focus revolves around mastering Java, Data Structures, and Algorithms. I believe that a strong foundation in these areas is essential for crafting efficient and scalable software solutions.❄️❄️</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
